@@ -1,0 +1,17 @@
+{
+  "name": "controle-de-estoque",
+  "version": "1.0.0",
+  "description": "TESTE CONTROLE DE ESTOQUE EPIACABA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "w3Lz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
